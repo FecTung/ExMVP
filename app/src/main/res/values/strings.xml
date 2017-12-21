@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExMVP</string>
+    <string name="click">CLICK</string>
+    <string name="blank">BLANK</string>
+</resources>
